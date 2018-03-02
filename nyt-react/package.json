@@ -1,0 +1,22 @@
+{
+  "name": "nytreact",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/connorleach820/NYT-React"
+  },
+  "author": "Connor Leach",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "morgan": "^1.9.0",
+    "express": "^4.16.0",
+    "mongoose": "^5.0.7"
+  }
+}
